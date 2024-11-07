@@ -8,6 +8,6 @@ package com.mycompany.recursosproyecto;
  *
  * @author henry
  */
-public class Recursos {
+public class Recurso {
     
 }
